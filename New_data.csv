@@ -1,0 +1,11 @@
+Name,Age,Gender,Salary,Purchase_flag
+Ram,20,m,20000,Y
+Sita,22,f,33000,N
+Lakshya,18,m,,Y
+Hanu,60,m,10000,Y
+Mytri,77,f,45000,Y
+Revanth,86,m,,N
+Roger,55,f,37000,N
+Khan,29,m,50000,N
+Michel,18,f,,Y
+,,,32500,
